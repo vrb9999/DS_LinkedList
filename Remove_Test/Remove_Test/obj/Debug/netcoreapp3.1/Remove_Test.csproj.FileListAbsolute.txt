@@ -1,0 +1,14 @@
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\bin\Debug\netcoreapp3.1\Remove_Test.exe
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\bin\Debug\netcoreapp3.1\Remove_Test.deps.json
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\bin\Debug\netcoreapp3.1\Remove_Test.runtimeconfig.json
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\bin\Debug\netcoreapp3.1\Remove_Test.runtimeconfig.dev.json
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\bin\Debug\netcoreapp3.1\Remove_Test.dll
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\bin\Debug\netcoreapp3.1\Remove_Test.pdb
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.csproj.AssemblyReference.cache
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.AssemblyInfoInputs.cache
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.AssemblyInfo.cs
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.csproj.CoreCompileInputs.cache
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.dll
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.pdb
+C:\Users\Vinay Biradar\source\repos\Remove_Test\Remove_Test\obj\Debug\netcoreapp3.1\Remove_Test.genruntimeconfig.cache
