@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertAtPosition", "InsertAtPosition\InsertAtPosition.csproj", "{242FA8E6-2962-4E9A-AC27-AAFED45A5D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{242FA8E6-2962-4E9A-AC27-AAFED45A5D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242FA8E6-2962-4E9A-AC27-AAFED45A5D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242FA8E6-2962-4E9A-AC27-AAFED45A5D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242FA8E6-2962-4E9A-AC27-AAFED45A5D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C16ADB06-565B-437B-9514-8590B1E34EDC}
+	EndGlobalSection
+EndGlobal
