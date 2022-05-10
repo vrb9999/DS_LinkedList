@@ -1,0 +1,13 @@
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\bin\Debug\netcoreapp3.1\Delete_FirstElement.exe
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\bin\Debug\netcoreapp3.1\Delete_FirstElement.deps.json
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\bin\Debug\netcoreapp3.1\Delete_FirstElement.runtimeconfig.json
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\bin\Debug\netcoreapp3.1\Delete_FirstElement.runtimeconfig.dev.json
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\bin\Debug\netcoreapp3.1\Delete_FirstElement.dll
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\bin\Debug\netcoreapp3.1\Delete_FirstElement.pdb
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.AssemblyInfoInputs.cache
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.AssemblyInfo.cs
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.csproj.CoreCompileInputs.cache
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.dll
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.pdb
+D:\RFP\DS_LinkedList\Delete_FirstElement\Delete_FirstElement\obj\Debug\netcoreapp3.1\Delete_FirstElement.genruntimeconfig.cache

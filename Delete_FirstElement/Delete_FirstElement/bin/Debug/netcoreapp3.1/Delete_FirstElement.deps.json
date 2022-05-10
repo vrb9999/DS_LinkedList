@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Delete_FirstElement/1.0.0": {
+        "runtime": {
+          "Delete_FirstElement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delete_FirstElement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
