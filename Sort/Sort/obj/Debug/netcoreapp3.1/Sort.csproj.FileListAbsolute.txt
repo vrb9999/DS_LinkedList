@@ -1,0 +1,13 @@
+D:\RFP\DS_LinkedList\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.exe
+D:\RFP\DS_LinkedList\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.deps.json
+D:\RFP\DS_LinkedList\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.json
+D:\RFP\DS_LinkedList\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.runtimeconfig.dev.json
+D:\RFP\DS_LinkedList\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.dll
+D:\RFP\DS_LinkedList\Sort\Sort\bin\Debug\netcoreapp3.1\Sort.pdb
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfoInputs.cache
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.AssemblyInfo.cs
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.csproj.CoreCompileInputs.cache
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.dll
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.pdb
+D:\RFP\DS_LinkedList\Sort\Sort\obj\Debug\netcoreapp3.1\Sort.genruntimeconfig.cache
