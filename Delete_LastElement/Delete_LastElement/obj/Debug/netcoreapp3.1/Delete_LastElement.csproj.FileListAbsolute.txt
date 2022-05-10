@@ -1,0 +1,14 @@
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\bin\Debug\netcoreapp3.1\Delete_LastElement.exe
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\bin\Debug\netcoreapp3.1\Delete_LastElement.deps.json
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\bin\Debug\netcoreapp3.1\Delete_LastElement.runtimeconfig.json
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\bin\Debug\netcoreapp3.1\Delete_LastElement.runtimeconfig.dev.json
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\bin\Debug\netcoreapp3.1\Delete_LastElement.dll
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\bin\Debug\netcoreapp3.1\Delete_LastElement.pdb
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.csproj.AssemblyReference.cache
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.AssemblyInfoInputs.cache
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.AssemblyInfo.cs
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.csproj.CoreCompileInputs.cache
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.dll
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.pdb
+D:\RFP\DS_LinkedList\Delete_LastElement\Delete_LastElement\obj\Debug\netcoreapp3.1\Delete_LastElement.genruntimeconfig.cache
