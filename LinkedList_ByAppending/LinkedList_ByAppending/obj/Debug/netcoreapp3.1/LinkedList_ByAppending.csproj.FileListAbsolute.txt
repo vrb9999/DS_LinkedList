@@ -1,0 +1,13 @@
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\bin\Debug\netcoreapp3.1\LinkedList_ByAppending.exe
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\bin\Debug\netcoreapp3.1\LinkedList_ByAppending.deps.json
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\bin\Debug\netcoreapp3.1\LinkedList_ByAppending.runtimeconfig.json
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\bin\Debug\netcoreapp3.1\LinkedList_ByAppending.runtimeconfig.dev.json
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\bin\Debug\netcoreapp3.1\LinkedList_ByAppending.dll
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\bin\Debug\netcoreapp3.1\LinkedList_ByAppending.pdb
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.AssemblyInfoInputs.cache
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.AssemblyInfo.cs
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.csproj.CoreCompileInputs.cache
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.dll
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.pdb
+D:\RFP\DS_LinkedList\LinkedList_ByAppending\LinkedList_ByAppending\obj\Debug\netcoreapp3.1\LinkedList_ByAppending.genruntimeconfig.cache
